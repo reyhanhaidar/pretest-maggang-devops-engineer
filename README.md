@@ -23,6 +23,30 @@ Cara pengerjaan, silahkan update file ini tulis jawabanya di bawah ini
   
 (kirimkan hasil screenshotnya simpan dalam folder `screenshot` dengan nama `task1.png`)
 
+## JAWABAN
+
+1. Dev ops merupakan metode dan alat secara automation dan integrasi untuk menghubungkan antara software development dengan team IT. Menerapkan dev-ops membawa dampak positif dalam pengembangan Software. 
+
+2. Infrastructure dalam konteks softwre merupakan gabungan komponen untuk menjalankan software. Salah satu komponennya yakni software, komponen yang termasuk dalam software yakni web server, OS, ERP, dsb.
+
+3. Server merupakan software atau hardware yang memiliki fungsi untuk menyimpan data dengan sistem client. Server biasanya memiliki fungsi untuk menyimpan data, menyediakan database, dan proteksi keamanan data. Implementasi dari server contohnya ada web-server. Web-server merupakan server yang digunakan untuk menyimpan web yang akan live.
+
+4. Server dibutuhkan dalam pengembangan karena pengembangan membutuhkan tempat/wadah untuk menyimpan data. Dalam pengembangan software, server menyediakan tempat yang aman dan terpusat untuk menyimpan berbagai jenis data yang dibutuhkan, mulai dari basis data, file konfigurasi, hingga kode sumber. Seiring dengan perkembangan teknologi, volume dan kompleksitas data yang diolah oleh aplikasi semakin meningkat, sehingga kebutuhan akan server yang handal dan scalable menjadi semakin krusial 
+
+5. Virtualisasi dalam konteks komputer merupakan virtualisasi sistem komputer secara utuh sedangkan container merupakan virtualisasi sistem komputer namun berbentuk package dan dijalankan secara dependensi.
+
+Terdapat perbedaan VM dan Container:
+  -Perbedaan
+    # VM lebih banyak memakan penyimapanan
+    # kontainer lebih cepat dan ringan
+    # VM independen sedangkan kontainer mengkiti host
+
+6. Teknologi container semakin diminati karena sifatnya yang dinamis dan kemudahan untuk menggunakannya
+
+7. Orchestration Container System merupakan proses automasi dari deployment, manajemen, skaling dan networking dari container. 
+
+
+
 ## Task 2 (Container)
 
 Jika saya memiliki architecture seperti berikut:
